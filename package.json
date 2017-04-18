@@ -1,0 +1,25 @@
+{
+  "name": "anotamela",
+  "version": "1.0.0",
+  "description": "api-rest en node para notas",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketascon/api-rest-nota.git"
+  },
+  "keywords": [
+    "notas"
+  ],
+  "author": "Maicol Andres Tascon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketascon/api-rest-nota/issues"
+  },
+  "homepage": "https://github.com/miketascon/api-rest-nota#readme"
+}
